@@ -12,7 +12,8 @@
             <title>我的第一篇博客文章</title>
             <link>http://example.com/2021/02/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</link>
             <pubDate>Fri, 19 Feb 2021 12:45:45 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ &lt;h2 id=&#34;我的第一篇博客文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我的第一篇博客文章&#34;&gt;#&lt;/a&gt; 我的第一篇博客文章&lt;/h2&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://example.com/2021/02/19/hello-world/</guid>

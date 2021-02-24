@@ -9,7 +9,7 @@
             "url": "http://example.com/2021/02/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/",
             "title": "我的第一篇博客文章",
             "date_published": "2021-02-19T04:45:45.000Z",
-            "content_html": "",
+            "content_html": "<h2 id=\"我的第一篇博客文章\"><a class=\"markdownIt-Anchor\" href=\"#我的第一篇博客文章\">#</a> 我的第一篇博客文章</h2>\n",
             "tags": []
         },
         {
