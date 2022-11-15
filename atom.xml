@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jujui.gitee.io</id>
+    <id>https://juju486.github.io</id>
     <title>juju&#39;s personal blog</title>
-    <link href="https://jujui.gitee.io" />
+    <link href="https://juju486.github.io" />
     <updated>2022-11-10T02:11:54.391Z</updated>
     <entry>
-        <id>https://jujui.gitee.io/2022/11/10/hello-world/</id>
+        <id>https://juju486.github.io/2022/11/10/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://jujui.gitee.io/2022/11/10/hello-world/"/>
+        <link rel="alternate" href="https://juju486.github.io/2022/11/10/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -26,10 +26,10 @@
         <updated>2022-11-10T02:11:54.391Z</updated>
     </entry>
     <entry>
-        <id>https://jujui.gitee.io/2021/02/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+        <id>https://juju486.github.io/2021/02/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
         <title>我的第一篇博客文章</title>
-        <link rel="alternate" href="https://jujui.gitee.io/2021/02/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-        <content type="html">&lt;h2 id=&#34;我的第一篇博客文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我的第一篇博客文章&#34;&gt;#&lt;/a&gt; 我的第一篇博客文章&lt;/h2&gt;
+        <link rel="alternate" href="https://juju486.github.io/2021/02/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;h2 id=&#34;我的第一篇博客文章test&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我的第一篇博客文章test&#34;&gt;#&lt;/a&gt; 我的第一篇博客文章 test&lt;/h2&gt;
 </content>
         <updated>2021-02-19T04:45:45.000Z</updated>
     </entry>
