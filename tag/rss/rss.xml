@@ -24,8 +24,7 @@
  博主使用的是&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW5vcmVhZGVyLmNvbS8=&#34;&gt; inoreader&lt;/span&gt;, 需要翻墙使用。其他阅读器请自行百度～&lt;/p&gt;
 &lt;h3 id=&#34;添加订阅源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#添加订阅源&#34;&gt;#&lt;/a&gt; 添加订阅源&lt;/h3&gt;
 &lt;p&gt;找到新增按钮&lt;br&gt;
-&lt;img data-src=&#34;/images/1669602502701.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!--  --&gt;
+&lt;img data-src=&#34;../images/1669602502701.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;搜索关键字或者 Rss 订阅链接（.xml 结尾），然后点击订阅你就成功了！&lt;/p&gt;
 &lt;h3 id=&#34;进阶技巧&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#进阶技巧&#34;&gt;#&lt;/a&gt; 进阶技巧&lt;/h3&gt;
 &lt;p&gt;考虑到大部分网站并没有提供 Rss，所以我们需要使用一款非常🐂的工具 ————&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0RJWWdvZC9SU1NIdWI=&#34;&gt;RssHub&lt;/span&gt;&lt;/p&gt;
@@ -45,14 +44,14 @@
 &lt;a href=&#34;https://addons.mozilla.org/zh-CN/firefox/addon/rsshub-radar/&#34; rel=&#34;nofollow&#34;&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_128x128.png&#34; width=&#34;48&#34; style=&#34;max-width: 100%;&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://apps.apple.com/us/app/rsshub-radar/id1610744717?l=zh&amp;amp;mt=12&#34; rel=&#34;nofollow&#34;&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_128x128.png&#34; width=&#34;48&#34; style=&#34;max-width: 100%;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 (如果你的浏览器不能添加扩展，也许你该换浏览器了)。
-移动端用户请下载相应的app。 
+移动端用户请下载相应的app。
 &lt;p&gt;完成之后，就可以查询当前网址是否有订阅源了。直接订阅或复制链接到你的阅读器。&lt;br&gt;
-&lt;img data-src=&#34;/images/1669604901848.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;../images/1669604901848.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;附：官方提供的 RssHub 域名可能查询会比较慢。你可以自建（自行百度）或者用我的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcA==&#34;&gt;https://rss-gold-rho.vercel.app&lt;/span&gt;&lt;br&gt;
-&lt;img data-src=&#34;/images/1669605175500.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;../images/1669605175500.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;使用 RssHub 添加订阅源&lt;br&gt;
-以微博订阅某博主为例&lt;/li&gt;
+已微博订阅某博主为例&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;路由: /weibo/user/:uid/:routeParams?&lt;/p&gt;
 &lt;p&gt;Rss 链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcC93ZWliby91c2VyLzIzNDIzNA==&#34;&gt;https://rss-gold-rho.vercel.app/weibo/user/234234&lt;/span&gt; （&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcA==&#34;&gt;https://rss-gold-rho.vercel.app&lt;/span&gt; 为你的 RSSHub 域名，234234 为用户 id，改成你需要订阅博主的 id）&lt;/p&gt;
