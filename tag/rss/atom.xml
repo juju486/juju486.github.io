@@ -6,9 +6,9 @@
     <updated>2022-11-27T04:45:45.000Z</updated>
     <category term="rss" />
     <entry>
-        <id>https://juju486.github.io/2022/11/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+        <id>https://juju486.github.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/</id>
         <title>使用Rss提高阅读效率</title>
-        <link rel="alternate" href="https://juju486.github.io/2022/11/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+        <link rel="alternate" href="https://juju486.github.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/"/>
         <content type="html">&lt;h3 id=&#34;rss是什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#rss是什么&#34;&gt;#&lt;/a&gt; Rss 是什么？&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;RSS（英文全称：RDF Site Summary 或 Really Simple Syndication），中文译作简易信息聚合，也称聚合内容，是一种消息来源格式规范，用以聚合多个网站更新的内容并自动通知网站订阅者。使用 RSS 后，网站订阅者便无需再手动查看网站是否有新的内容，同时 RSS 可将多个网站更新的内容进行整合，以摘要的形式呈现，有助于订阅者快速获取重要信息，并选择性地点阅查看。&lt;/p&gt;
