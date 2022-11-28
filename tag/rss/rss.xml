@@ -1,15 +1,20 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://juju486.github.io</id>
-    <title>jujui&#39;s personal blog</title>
-    <link href="https://juju486.github.io" />
-    <updated>2022-11-27T04:45:45.000Z</updated>
-    <category term="rss" />
-    <entry>
-        <id>https://juju486.github.io/2022/11/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
-        <title>使用Rss提高阅读效率</title>
-        <link rel="alternate" href="https://juju486.github.io/2022/11/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-        <content type="html">&lt;h3 id=&#34;rss是什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#rss是什么&#34;&gt;#&lt;/a&gt; Rss 是什么？&lt;/h3&gt;
+<rss version="2.0">
+    <channel>
+        <title>jujui&#39;s personal blog • Posts by &#34;rss&#34; tag</title>
+        <link>https://juju486.github.io</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 27 Nov 2022 12:45:45 +0800</pubDate>
+        <lastBuildDate>Sun, 27 Nov 2022 12:45:45 +0800</lastBuildDate>
+        <category>rss</category>
+        <item>
+            <guid isPermalink="true">https://juju486.github.io/2022/11/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</guid>
+            <title>使用Rss提高阅读效率</title>
+            <link>https://juju486.github.io/2022/11/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</link>
+            <category>rss</category>
+            <pubDate>Sun, 27 Nov 2022 12:45:45 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;rss是什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#rss是什么&#34;&gt;#&lt;/a&gt; Rss 是什么？&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;RSS（英文全称：RDF Site Summary 或 Really Simple Syndication），中文译作简易信息聚合，也称聚合内容，是一种消息来源格式规范，用以聚合多个网站更新的内容并自动通知网站订阅者。使用 RSS 后，网站订阅者便无需再手动查看网站是否有新的内容，同时 RSS 可将多个网站更新的内容进行整合，以摘要的形式呈现，有助于订阅者快速获取重要信息，并选择性地点阅查看。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -51,29 +56,7 @@
 &lt;p&gt;路由: /weibo/user/:uid/:routeParams?&lt;/p&gt;
 &lt;p&gt;Rss 链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcC93ZWliby91c2VyLzIzNDIzNA==&#34;&gt;https://rss-gold-rho.vercel.app/weibo/user/234234&lt;/span&gt; （&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcA==&#34;&gt;https://rss-gold-rho.vercel.app&lt;/span&gt; 为你的 RSSHub 域名，234234 为用户 id，改成你需要订阅博主的 id）&lt;/p&gt;
 &lt;p&gt;其他示例请参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnJzc2h1Yi5hcHAv&#34;&gt;文档&lt;/span&gt;&lt;/p&gt;
-</content>
-        <category term="rss" />
-        <updated>2022-11-27T04:45:45.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://juju486.github.io/2022/11/10/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="https://juju486.github.io/2022/11/10/hello-world/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
-</content>
-        <updated>2022-11-10T02:11:54.391Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
