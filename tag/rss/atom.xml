@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://juju486.github.io</id>
+    <id>https://jujui.gitee.io</id>
     <title>想的越少，睡的越好 • Posts by &#34;rss&#34; tag</title>
-    <link href="https://juju486.github.io" />
+    <link href="https://jujui.gitee.io" />
     <updated>2022-11-27T04:45:45.000Z</updated>
+    <category term="git" />
     <category term="rss" />
     <entry>
-        <id>https://juju486.github.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/</id>
+        <id>https://jujui.gitee.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/</id>
         <title>使用Rss提高阅读效率</title>
-        <link rel="alternate" href="https://juju486.github.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/"/>
+        <link rel="alternate" href="https://jujui.gitee.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;RSS（英文全称：RDF Site Summary 或 Really Simple Syndication），中文译作简易信息聚合，也称聚合内容，是一种消息来源格式规范，用以聚合多个网站更新的内容并自动通知网站订阅者。使用 RSS 后，网站订阅者便无需再手动查看网站是否有新的内容，同时 RSS 可将多个网站更新的内容进行整合，以摘要的形式呈现，有助于订阅者快速获取重要信息，并选择性地点阅查看。&lt;/p&gt;
@@ -17,7 +18,7 @@
 &lt;h1 id=&#34;快速上手&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速上手&#34;&gt;#&lt;/a&gt; 快速上手&lt;/h1&gt;
 &lt;h2 id=&#34;选择阅读器&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#选择阅读器&#34;&gt;#&lt;/a&gt; 选择阅读器&lt;/h2&gt;
 &lt;p&gt;首先，你需要一个 RSS 阅读器。&lt;br&gt;
-博主使用的是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW5vcmVhZGVyLmNvbS8=&#34;&gt;inoreader&lt;/span&gt;，需要翻墙使用，其他阅读器请自行百度。&lt;/p&gt;
+博主使用的是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW5vcmVhZGVyLmNvbS8=&#34;&gt;inoreader&lt;/span&gt;，需要配合魔法网络使用，其他阅读器请自行百度。&lt;/p&gt;
 &lt;h2 id=&#34;添加订阅源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#添加订阅源&#34;&gt;#&lt;/a&gt; 添加订阅源&lt;/h2&gt;
 &lt;p&gt;找到新增按钮&lt;br&gt;
 &lt;img data-src=&#34;/images/1669602502701.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
@@ -28,11 +29,11 @@
 &lt;p&gt;RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容&lt;/p&gt;&lt;p&gt;可以配合浏览器扩展 &lt;a href=&#34;https://github.com/DIYgod/RSSHub-Radar&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;RSSHub Radar&lt;span&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt; &lt;span class=&#34;sr-only&#34;&gt;(opens new window)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt; 和 移动端辅助 App &lt;a href=&#34;https://github.com/Cay-Zhang/RSSBud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;RSSBud&lt;span&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt; &lt;span class=&#34;sr-only&#34;&gt;(opens new window)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt; (iOS) 与 &lt;a href=&#34;https://github.com/LeetaoGoooo/RSSAid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;RSSAid&lt;span&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt; &lt;span class=&#34;sr-only&#34;&gt;(opens new window)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt; (Android) 食用&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnJzc2h1Yi5hcHAv&#34;&gt;文档地址&lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&#34;添加下载查询当前网址是否有订阅源-的扩展或app&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#添加下载查询当前网址是否有订阅源-的扩展或app&#34;&gt;#&lt;/a&gt; 添加 / 下载查询当前网址是否有订阅源 的扩展或 APP&lt;/h2&gt;
+&lt;h2 id=&#34;添加下载查询当前网址是否有订阅源-的扩展或-app&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#添加下载查询当前网址是否有订阅源-的扩展或-app&#34;&gt;#&lt;/a&gt; 添加 / 下载查询当前网址是否有订阅源 的扩展或 APP&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;一个可以帮助你快速发现和订阅当前网站 RSS 和 RSSHub 的浏览器扩展 / APP。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;首先为你的浏览器添加 RssHub Radar 扩展（点击去下载）。&lt;/p&gt;
+&lt;p&gt;首先为你的浏览器添加 RSSHub Radar 扩展（点击去下载）。&lt;/p&gt;
 &lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://chrome.google.com/webRssstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa&#34; rel=&#34;nofollow&#34;&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_128x128.png&#34; width=&#34;48&#34; style=&#34;max-width: 100%;&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://microsoftedge.microsoft.com/addons/detail/gangkeiaobmjcjokiofpkfpcobpbmnln&#34; rel=&#34;nofollow&#34;&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_128x128.png&#34; width=&#34;48&#34; style=&#34;max-width: 100%;&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://addons.mozilla.org/zh-CN/firefox/addon/rsshub-radar/&#34; rel=&#34;nofollow&#34;&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_128x128.png&#34; width=&#34;48&#34; style=&#34;max-width: 100%;&#34;&gt;&lt;/a&gt;
@@ -42,10 +43,10 @@
 &lt;p&gt;完成之后，就可以查询当前网址是否有订阅源了。直接订阅或复制链接到你的阅读器。&lt;br&gt;
 &lt;img data-src=&#34;/images/1669604901848.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;官方提供的 RssHub 域名可能查询会比较慢，你可以自建（自行百度）或者用我的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcA==&#34;&gt;https://rss-gold-rho.vercel.app&lt;/span&gt;&lt;br&gt;
+&lt;p&gt;官方提供的 RSSHub 域名可能查询会比较慢，你可以自建（自行百度）或者用我的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcA==&#34;&gt;https://rss-gold-rho.vercel.app&lt;/span&gt;&lt;br&gt;
 &lt;img data-src=&#34;/images/1669605175500.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;使用rsshub添加订阅源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#使用rsshub添加订阅源&#34;&gt;#&lt;/a&gt; 使用 RssHub 添加订阅源&lt;/h2&gt;
+&lt;h2 id=&#34;使用-rsshub-添加订阅源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#使用-rsshub-添加订阅源&#34;&gt;#&lt;/a&gt; 使用 RSSHub 添加订阅源&lt;/h2&gt;
 &lt;p&gt;以微博订阅某博主为例：&lt;/p&gt;
 &lt;p&gt;路由: /weibo/user/:uid/:routeParams?&lt;br&gt;
 Rss 链接：&lt;strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcA==&#34;&gt;https://rss-gold-rho.vercel.app&lt;/span&gt;&lt;/strong&gt;/weibo/user/&lt;strong&gt;234234&lt;/strong&gt; （&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yc3MtZ29sZC1yaG8udmVyY2VsLmFwcA==&#34;&gt;https://rss-gold-rho.vercel.app&lt;/span&gt; 为你的 RSSHub 域名，234234 为用户 id，改成你需要订阅博主的 id）。&lt;/p&gt;

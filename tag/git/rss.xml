@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>想的越少，睡的越好 • Posts by &#34;git&#34; tag</title>
+        <link>https://jujui.gitee.io</link>
+        <description>无精打采的失眠患者</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 28 Mar 2023 19:42:11 +0800</pubDate>
+        <lastBuildDate>Tue, 28 Mar 2023 19:42:11 +0800</lastBuildDate>
+        <category>git</category>
+        <category>rss</category>
+        <item>
+            <guid isPermalink="true">https://jujui.gitee.io/2023/03/28/Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</guid>
+            <title>Git的基本使用</title>
+            <link>https://jujui.gitee.io/2023/03/28/Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</link>
+            <category>git</category>
+            <pubDate>Tue, 28 Mar 2023 19:42:11 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+    </channel>
+</rss>

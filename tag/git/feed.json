@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "想的越少，睡的越好 • All posts by \"git\" tag",
+    "description": "无精打采的失眠患者",
+    "home_page_url": "https://jujui.gitee.io",
+    "items": [
+        {
+            "id": "https://jujui.gitee.io/2023/03/28/Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/",
+            "url": "https://jujui.gitee.io/2023/03/28/Git%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/",
+            "title": "Git的基本使用",
+            "date_published": "2023-03-28T11:42:11.000Z",
+            "content_html": "",
+            "tags": [
+                "git"
+            ]
+        }
+    ]
+}
