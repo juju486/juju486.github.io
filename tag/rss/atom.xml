@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jujui.gitee.io</id>
+    <id>https://juju486.github.io</id>
     <title>想的越少，睡的越好 • Posts by &#34;rss&#34; tag</title>
-    <link href="https://jujui.gitee.io" />
+    <link href="https://juju486.github.io" />
     <updated>2022-11-27T04:45:45.000Z</updated>
     <category term="git" />
     <category term="rss" />
     <entry>
-        <id>https://jujui.gitee.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/</id>
+        <id>https://juju486.github.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/</id>
         <title>使用Rss提高阅读效率</title>
-        <link rel="alternate" href="https://jujui.gitee.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/"/>
+        <link rel="alternate" href="https://juju486.github.io/2022/11/27/%E4%BD%BF%E7%94%A8Rss%E6%8F%90%E9%AB%98%E9%98%85%E8%AF%BB%E6%95%88%E7%8E%87/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;RSS（英文全称：RDF Site Summary 或 Really Simple Syndication），中文译作简易信息聚合，也称聚合内容，是一种消息来源格式规范，用以聚合多个网站更新的内容并自动通知网站订阅者。使用 RSS 后，网站订阅者便无需再手动查看网站是否有新的内容，同时 RSS 可将多个网站更新的内容进行整合，以摘要的形式呈现，有助于订阅者快速获取重要信息，并选择性地点阅查看。&lt;/p&gt;
