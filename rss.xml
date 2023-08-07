@@ -10,8 +10,50 @@
         </author>
         <description>无精打采的失眠患者</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 +0800</pubDate>
-        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0800</lastBuildDate>
+        <pubDate>Sun, 06 Aug 2023 15:45:45 +0800</pubDate>
+        <lastBuildDate>Sun, 06 Aug 2023 15:45:45 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://juju486.github.io/2023/08/06/%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AE%89%E5%8D%93%E9%98%85%E8%AF%BB%E6%BC%AB%E7%94%BB%E7%A5%9E%E5%99%A8/</guid>
+            <title>超好用的安卓阅读漫画神器 —— Tachiyomi</title>
+            <link>https://juju486.github.io/2023/08/06/%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AE%89%E5%8D%93%E9%98%85%E8%AF%BB%E6%BC%AB%E7%94%BB%E7%A5%9E%E5%99%A8/</link>
+            <category term="应用分享" scheme="https://juju486.github.io/categories/%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%AB/" />
+            <category term="漫画 安卓" scheme="https://juju486.github.io/tags/%E6%BC%AB%E7%94%BB-%E5%AE%89%E5%8D%93/" />
+            <pubDate>Sun, 06 Aug 2023 15:45:45 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90YWNoaXlvbWkub3JnLw==&#34;&gt;Tachiyomi&lt;/span&gt; 是适用于 Android 6.0 及更高版本的免费开源漫画阅读器。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#功能&#34;&gt;#&lt;/a&gt; 功能&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这玩意只是个漫画阅读器，本身并不提供漫画。想看漫画需要安装扩展（漫画源）。&lt;br /&gt;
+Github 28k + star ，提供了 1000+ 的扩展。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;来自各种来源的在线阅读&lt;/li&gt;
+&lt;li&gt;支持本地阅读&lt;/li&gt;
+&lt;li&gt;漫画更新提示&lt;/li&gt;
+&lt;li&gt;扩展在线更新&lt;/li&gt;
+&lt;li&gt;支持跟踪器：MyAnimeList、AniList、Kitsu、MangaUpdates、Shikimori 和 Bangumi&lt;/li&gt;
+&lt;li&gt;······&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;总之，功能非常全面。目前是我用过最好用的一款了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;入门&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#入门&#34;&gt;#&lt;/a&gt; 入门&lt;/h1&gt;
+&lt;h2 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; 安装&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90YWNoaXlvbWkub3JnL2Rvd25sb2FkLw==&#34;&gt;下载地址&lt;/span&gt; 点击 Stale 下载&lt;/p&gt;
+&lt;h2 id=&#34;扩展安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#扩展安装&#34;&gt;#&lt;/a&gt; 扩展安装&lt;/h2&gt;
+&lt;p&gt;下载 APP 后，点击底部栏 “浏览”，然后选择 “插件”，然后下载你需要的扩展就可以了。（点击右上角 “文 A” 可以筛选扩展的语言）。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/app/tochiyomi1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;搜索漫画-加入书架&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#搜索漫画-加入书架&#34;&gt;#&lt;/a&gt; 搜索漫画、加入书架&lt;/h2&gt;
+&lt;p&gt;在 “浏览” 栏目中点击 “图源”，然后点击放大镜搜索关键字。没搜索到就多下载几个扩展吧......&lt;br /&gt;
+ 有结果点击进去，点击 “添加的书架” 就 OK 了。&lt;/p&gt;
+&lt;h2 id=&#34;其他&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#其他&#34;&gt;#&lt;/a&gt; 其他&lt;/h2&gt;
+&lt;p&gt;另外，记得在设置 &amp;gt; 书架 &amp;gt; 全局更新 ，取消勾选更新的限制，不然不会检测漫画是否更新。&lt;br /&gt;
+记录进度可以使用 Bangumi ，只需要首次手动同步一下，后面每次阅读都会自动同步。&lt;/p&gt;
+&lt;p&gt;更多用法请参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90YWNoaXlvbWkub3JnL2hlbHAvZ3VpZGVzL2dldHRpbmctc3RhcnRlZC8jaW5zdGFsbGF0aW9u&#34;&gt;官方文档&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://juju486.github.io/2023/06/01/uniapp%E7%9A%84webview%E4%B8%AD%E4%BF%9D%E5%AD%98%E5%9B%BE%E7%89%87/</guid>
             <title>uniapp的webview中保存图片</title>

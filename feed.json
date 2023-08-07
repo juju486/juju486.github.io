@@ -7,6 +7,17 @@
     "home_page_url": "https://juju486.github.io",
     "items": [
         {
+            "id": "https://juju486.github.io/2023/08/06/%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AE%89%E5%8D%93%E9%98%85%E8%AF%BB%E6%BC%AB%E7%94%BB%E7%A5%9E%E5%99%A8/",
+            "url": "https://juju486.github.io/2023/08/06/%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AE%89%E5%8D%93%E9%98%85%E8%AF%BB%E6%BC%AB%E7%94%BB%E7%A5%9E%E5%99%A8/",
+            "title": "超好用的安卓阅读漫画神器 —— Tachiyomi",
+            "date_published": "2023-08-06T07:45:45.000Z",
+            "content_html": "<h1 id=\"简介\"><a class=\"anchor\" href=\"#简介\">#</a> 简介</h1>\n<blockquote>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly90YWNoaXlvbWkub3JnLw==\">Tachiyomi</span> 是适用于 Android 6.0 及更高版本的免费开源漫画阅读器。</p>\n</blockquote>\n<h1 id=\"功能\"><a class=\"anchor\" href=\"#功能\">#</a> 功能</h1>\n<blockquote>\n<p>这玩意只是个漫画阅读器，本身并不提供漫画。想看漫画需要安装扩展（漫画源）。<br />\nGithub 28k + star ，提供了 1000+ 的扩展。</p>\n</blockquote>\n<ul>\n<li>来自各种来源的在线阅读</li>\n<li>支持本地阅读</li>\n<li>漫画更新提示</li>\n<li>扩展在线更新</li>\n<li>支持跟踪器：MyAnimeList、AniList、Kitsu、MangaUpdates、Shikimori 和 Bangumi</li>\n<li>······</li>\n</ul>\n<blockquote>\n<p>总之，功能非常全面。目前是我用过最好用的一款了。</p>\n</blockquote>\n<h1 id=\"入门\"><a class=\"anchor\" href=\"#入门\">#</a> 入门</h1>\n<h2 id=\"安装\"><a class=\"anchor\" href=\"#安装\">#</a> 安装</h2>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly90YWNoaXlvbWkub3JnL2Rvd25sb2FkLw==\">下载地址</span> 点击 Stale 下载</p>\n<h2 id=\"扩展安装\"><a class=\"anchor\" href=\"#扩展安装\">#</a> 扩展安装</h2>\n<p>下载 APP 后，点击底部栏 “浏览”，然后选择 “插件”，然后下载你需要的扩展就可以了。（点击右上角 “文 A” 可以筛选扩展的语言）。</p>\n<p><img data-src=\"/images/app/tochiyomi1.jpg\" alt=\"\" /></p>\n<h2 id=\"搜索漫画-加入书架\"><a class=\"anchor\" href=\"#搜索漫画-加入书架\">#</a> 搜索漫画、加入书架</h2>\n<p>在 “浏览” 栏目中点击 “图源”，然后点击放大镜搜索关键字。没搜索到就多下载几个扩展吧......<br />\n 有结果点击进去，点击 “添加的书架” 就 OK 了。</p>\n<h2 id=\"其他\"><a class=\"anchor\" href=\"#其他\">#</a> 其他</h2>\n<p>另外，记得在设置 &gt; 书架 &gt; 全局更新 ，取消勾选更新的限制，不然不会检测漫画是否更新。<br />\n记录进度可以使用 Bangumi ，只需要首次手动同步一下，后面每次阅读都会自动同步。</p>\n<p>更多用法请参考<span class=\"exturl\" data-url=\"aHR0cHM6Ly90YWNoaXlvbWkub3JnL2hlbHAvZ3VpZGVzL2dldHRpbmctc3RhcnRlZC8jaW5zdGFsbGF0aW9u\">官方文档</span></p>\n",
+            "tags": [
+                "应用分享",
+                "漫画 安卓"
+            ]
+        },
+        {
             "id": "https://juju486.github.io/2023/06/01/uniapp%E7%9A%84webview%E4%B8%AD%E4%BF%9D%E5%AD%98%E5%9B%BE%E7%89%87/",
             "url": "https://juju486.github.io/2023/06/01/uniapp%E7%9A%84webview%E4%B8%AD%E4%BF%9D%E5%AD%98%E5%9B%BE%E7%89%87/",
             "title": "uniapp的webview中保存图片",
